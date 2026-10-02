@@ -26,9 +26,9 @@ The goal of this project was to move beyond standard WooCommerce templates and e
 *   **Forms:** Everest Forms
 *   **Styling:** Custom Flexbox implementation for uniform product card alignment.
 
-## 📸 Screenshots
+## 🎥 Project Showcase
 
-*(Optional: Add a few screenshots of your homepage, shop grid, and contact page here by dragging and dropping images into the GitHub editor)*
+[![HOME_DECOR Showcase](https://img.youtube.com/vi/2CXg8h3-rVs/maxresdefault.jpg)](https://youtu.be/2CXg8h3-rVs)
 
 ---
 **Author:** Koustav Mallick
