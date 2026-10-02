@@ -1,4 +1,4 @@
-# HOME_DECOR - Premium E-Commerce Storefront
+# HOME_DECOR - Premium E-Commerce
 
 A fully responsive, premium home decor e-commerce website built from scratch using WordPress, Elementor, and WooCommerce. 
 
