@@ -26,9 +26,17 @@ The goal of this project was to move beyond standard WooCommerce templates and e
 *   **Forms:** Everest Forms
 *   **Styling:** Custom Flexbox implementation for uniform product card alignment.
 
-## 🎥 Project Showcase
+## 📸 Screenshots
 
-[![HOME_DECOR Showcase](https://img.youtube.com/vi/2CXg8h3-rVs/maxresdefault.jpg)](https://youtu.be/2CXg8h3-rVs)
+*
+<img width="1174" height="3525" alt="image" src="https://github.com/user-attachments/assets/94170563-3f4f-4c3e-ba83-9b30acebe6e4" />
+
+<img width="1174" height="3369" alt="image" src="https://github.com/user-attachments/assets/ff5869e1-09f6-4da4-94ca-50f80ea75b3a" />
+
+<img width="1174" height="1906" alt="image" src="https://github.com/user-attachments/assets/305abe13-59c8-45c0-bb16-ad83da11342f" />
+
+<img width="1174" height="1761" alt="image" src="https://github.com/user-attachments/assets/712c6d1a-9b10-406b-b0c1-99d042839237" />
+*
 
 ---
 **Author:** Koustav Mallick
